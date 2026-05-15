@@ -21,4 +21,8 @@ namespace MidiApp.Common
         public double[] HeightOffsets;
         public int timeout;
     }
+    public static class Protocol
+    {
+        public const int ProtocolVersion = 1;
+    }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8CfU4kzVCI=",
+  "success": true,
+  "projectFilePath": "E:\\Derek\\repos\\MidiApp_Server\\MidiApp.Common\\MidiApp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\derek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\derek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

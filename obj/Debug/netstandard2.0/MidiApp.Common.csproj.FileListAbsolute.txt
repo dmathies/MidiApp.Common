@@ -1,0 +1,9 @@
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\bin\Debug\netstandard2.0\MidiApp.Common.deps.json
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\bin\Debug\netstandard2.0\MidiApp.Common.dll
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\bin\Debug\netstandard2.0\MidiApp.Common.pdb
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.csproj.AssemblyReference.cache
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.csproj.CoreCompileInputs.cache
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.sourcelink.json
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.dll
+E:\Derek\repos\MidiApp_Server\MidiApp.Common\obj\Debug\netstandard2.0\MidiApp.Common.pdb
